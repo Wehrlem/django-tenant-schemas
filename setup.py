@@ -26,7 +26,7 @@ setup(
     url='https://github.com/bcarneiro/django-tenant-schemas',
     license='MIT',
     description='Tenant support for Django using PostgreSQL schemas.',
-    long_description=open('README.rst').read() if exists("README.rst") else "",
+    #long_description=open('README.rst').read() if exists("README.rst") else "",
     classifiers=[
         'License :: OSI Approved :: MIT License',
         'Framework :: Django',
